@@ -10,7 +10,7 @@
 
 ## 1. Introduction
 
-This data is result of Course Project on Getting and Cleaning Data (getdata-015) training. More details about Course Project are available in file [Purpose of Course Project.txt](Purpose of Course Project.txt)
+This data is result of Course Project on Getting and Cleaning Data (getdata-015) training. More details about Course Project are available in file [Purpose of Course Project.txt](Purpose of Course Project.txt) (or on [this web page](https://class.coursera.org/getdata-015/human_grading/view/courses/973502/assessments/3/submissions))
 
 Below one can find description of dataset saved in file [REQ5result.txt](REQ5result.txt). It is an result of transofrmation of original data (original data is described in [features_info.txt](features_info.txt)) according to Course Project requirements described in [Purpose of Course Project.txt](Purpose of Course Project.txt). Transformations are described in following steps (more details in [README.md](README.md)):
 
