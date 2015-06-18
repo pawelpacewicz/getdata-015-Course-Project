@@ -1,6 +1,5 @@
 # CodeBook for Course Project on Getting and Cleaning Data (getdata-015)
 
-
 ***
 ##Table of Content:
 
